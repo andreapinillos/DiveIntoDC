@@ -7,4 +7,4 @@
 ### Using the google maps API and the google places API, this map was created. Using the OpenWeatherApp API, the real time DC weather was presented below the map. Using Materialize, the css was adjusted.
 
 
-### [Link to Website](http://diveintodc.com)
+### [Link to Website](http://andreapinillos.com/DiveIntoDC/)
